@@ -22,7 +22,7 @@ const songs = [
     duration: '1:33',
   },
   {
-    title: 'Bed Sheet',
+    title: 'Bed Sheets',
     artist: 'Frada the Rapper',
     coverPath: 'cover2.jpg',
     discPath: 'music2.mp3',

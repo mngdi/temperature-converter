@@ -17,22 +17,22 @@ const songs = [
   {
     title: 'Mona',
     artist: 'Fradaq',
-    coverPath: 'assets/images/cover1.JPG',
-    discPath: 'assets/music/music1.mp3',
+    coverPath: 'cover1.JPG',
+    discPath: 'music1.mp3',
     duration: '1:33',
   },
   {
     title: 'Bed Sheet',
     artist: 'Frada the Rapper',
-    coverPath: 'assets/images/cover2.jpg',
-    discPath: 'assets/music/music2.mp3',
+    coverPath: 'cover2.jpg',
+    discPath: 'music2.mp3',
     duration: '2:22',
   },
   {
     title: 'FAFO(f**k around n find out)',
     artist: 'Lil Frad',
-    coverPath: 'assets/images/cover3.jpg',
-    discPath: 'assets/music/music3.mp3',
+    coverPath: 'cover3.jpg',
+    discPath: 'music3.mp3',
     duration: '1:54',
   },
 ];

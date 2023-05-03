@@ -1,4 +1,4 @@
-# Cloen
-Clone using html, css and bootstrap 5
-Vulkar AUto player by Gideon Adegbite
-© Copyright 2023 Clone. All rights reserved
+# Temperature Converter
+Temperature Converter using html, css and JavaScript
+Temperature Converter by Gideon Adegbite
+© Copyright 2023. All rights reserved
